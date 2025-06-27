@@ -54,7 +54,7 @@ const Projects = () => {
         "A responsive portfolio website showcasing projects and skills with smooth animations and dark mode support.",
       image: "https://res.cloudinary.com/dkgz4iamd/image/upload/v1751017000/Screenshot_2025-06-27_at_3.06.00_PM_aeo8ca.png",
       tech: ["Next.js", "Tailwind CSS", "Framer Motion"],
-      github: "https://github.com",
+      github: "https://github.com/Gulshan36/Portfolio",
       live: "https://example.com",
       color: "coral-red",
     },

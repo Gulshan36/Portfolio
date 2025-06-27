@@ -7,7 +7,7 @@ import { Toaster } from "@/components/ui/toaster"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Gulshan Kumar - Full Stack Developer & UI/UX Designer",
+  title: "Gulshan Kumar",
   description:
     "Personal portfolio of Gulshan Kumar, a passionate Full Stack Developer and UI/UX Designer specializing in React, Node.js, and modern web technologies.",
   keywords: "full stack developer, react developer, nodejs, web developer, ui ux designer, portfolio",
@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://johndoe.dev",
+    url: "https://github.com/Gulshan36/Portfolio",
     title: "Gulshan Kumar - Full Stack Developer & UI/UX Designer",
     description: "Personal portfolio showcasing projects and skills in web development",
     siteName: "Gulshan Kumar Portfolio",
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Gulshan Kumar - Full Stack Developer",
     description: "Personal portfolio showcasing projects and skills in web development",
-    creator: "@johndoe",
+    creator: "@gulshan",
   },
   robots: {
     index: true,
